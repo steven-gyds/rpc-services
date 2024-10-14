@@ -1,2 +1,8 @@
 <?php
-echo "支付宝服务";
+
+namespace Gyds\RpcServicesIntefeces\interfaces;
+
+interface AlipayServiceInterface
+{
+    public function pay(string $name): string;
+}
