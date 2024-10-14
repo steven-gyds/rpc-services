@@ -1,0 +1,19 @@
+{
+    "name": "steven-gyds/rpc-services",
+    "description": "gyds rpc services interfaces",
+    "type": "metapackage",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "StevenGyds\\RpcServices\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "steven",
+            "email": "2394983793@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
