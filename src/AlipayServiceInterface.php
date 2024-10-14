@@ -1,6 +1,6 @@
 <?php
 
-namespace Gyds\RpcServicesIntefeces\interfaces;
+namespace Gyds\RpcServicesIntefeces;
 
 interface AlipayServiceInterface
 {
