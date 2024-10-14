@@ -1,6 +1,6 @@
 <?php
 
-namespace Gyds\RpcServicesIntefeces;
+namespace Gyds\RpcServicesInterface;
 
 interface CalculatorServiceInterface
 {
