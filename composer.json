@@ -1,7 +1,7 @@
 {
     "name": "steven-gyds/rpc-services",
     "description": "gyds rpc services interfaces",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
