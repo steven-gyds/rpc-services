@@ -1,5 +1,5 @@
 {
-    "name": "steven-gyds/rpc-services",
+    "name": "gyds/rpc-services-intefeces",
     "description": "gyds rpc services interfaces",
     "type": "library",
     "license": "MIT",
