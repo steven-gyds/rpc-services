@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Gyds\\RpcServicesIntefeces\\": "/interfaces"
+            "Gyds\\RpcServicesIntefeces\\": "/src"
         }
     },
     "authors": [
